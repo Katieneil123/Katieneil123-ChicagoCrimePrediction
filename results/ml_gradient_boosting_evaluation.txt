@@ -1,0 +1,16 @@
+Evaluation Results for ml_gradient_boosting
+==================================================
+
+Model: gradient_boosting
+Accuracy: 0.9317
+Precision: 0.9286629233542663
+Recall: 0.9317
+F1 Score: 0.9286678088082189
+ROC AUC: None
+Classification Report:
+  False: {'precision': 0.9445647630989019, 'recall': 0.9768172888015717, 'f1-score': 0.9604203287681817, 'support': 25450.0}
+  True: {'precision': 0.8397174680793262, 'recall': 0.6793406593406593, 'f1-score': 0.7510630543068886, 'support': 4550.0}
+  accuracy: 0.9317
+  macro avg: {'precision': 0.8921411155891141, 'recall': 0.8280789740711155, 'f1-score': 0.8557416915375351, 'support': 30000.0}
+  weighted avg: {'precision': 0.9286629233542663, 'recall': 0.9317, 'f1-score': 0.9286678088082189, 'support': 30000.0}
+Training Date: 2025-03-06 00:27:27

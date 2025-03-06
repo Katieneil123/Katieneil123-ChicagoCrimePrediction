@@ -1,0 +1,31 @@
+{
+    "target_variable": "is_domestic",
+    "problem_type": "binary",
+    "model_performance": {
+        "random_forest": {
+            "accuracy": 0.9308,
+            "precision": 0.9276620374762125,
+            "recall": 0.9308,
+            "f1_score": 0.9274089832149203
+        },
+        "gradient_boosting": {
+            "accuracy": 0.9317,
+            "precision": 0.9286629233542663,
+            "recall": 0.9317,
+            "f1_score": 0.9286678088082189
+        },
+        "dnn": {
+            "accuracy": 0.9315,
+            "precision": 0.928451588711815,
+            "recall": 0.9315,
+            "f1_score": 0.9285377002221122
+        },
+        "transformer": {
+            "accuracy": 0.9312,
+            "precision": 0.9283180681146953,
+            "recall": 0.9312,
+            "f1_score": 0.9288377348244954
+        }
+    },
+    "timestamp": "2025-03-06 00:29:31"
+}

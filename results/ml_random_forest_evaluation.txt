@@ -1,0 +1,16 @@
+Evaluation Results for ml_random_forest
+==================================================
+
+Model: random_forest
+Accuracy: 0.9308
+Precision: 0.9276620374762125
+Recall: 0.9308
+F1 Score: 0.9274089832149203
+ROC AUC: None
+Classification Report:
+  False: {'precision': 0.9427229335555724, 'recall': 0.9778388998035363, 'f1-score': 0.959959882734146, 'support': 25450.0}
+  True: {'precision': 0.8434203220433093, 'recall': 0.6676923076923077, 'f1-score': 0.7453385672227674, 'support': 4550.0}
+  accuracy: 0.9308
+  macro avg: {'precision': 0.8930716277994408, 'recall': 0.8227656037479221, 'f1-score': 0.8526492249784567, 'support': 30000.0}
+  weighted avg: {'precision': 0.9276620374762125, 'recall': 0.9308, 'f1-score': 0.9274089832149203, 'support': 30000.0}
+Training Date: 2025-03-06 00:25:34
