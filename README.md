@@ -1,2 +1,0 @@
-# Katieneil123-ChicagoCrimePrediction
-Predictive Analytics assignment
